@@ -1,4 +1,4 @@
-module main
+module github.com/codercola034/go-web-search
 
 go 1.21.4
 
