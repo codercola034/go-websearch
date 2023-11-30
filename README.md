@@ -14,25 +14,15 @@ Check out the development video on YouTube: [![YouTube thumbnail](https://github
 
 ## Installation
 
-1. Clone the repository:
-
 ```
-git clone https://github.com/codercola034/go-web-search.git
-```
-
-2. Build the executable:
-
-```
-go build -o go-websearch
-```
-
-3. Run the program:
-
-```
-./go-websearch
+go install github.com/codercola034/go-web-search@latest
 ```
 
 ## Usage
+
+```
+go-web-search
+```
 
 - Enter your search query after running the program.
 - Press Enter to perform the search.
